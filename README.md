@@ -204,7 +204,7 @@ Data & Business Analyst | Toronto, Canada
 
 Actively seeking Data Analyst and BI Analyst roles in Canadian banking.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/somi-shafiee89/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/somi-shafiee89/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/smyh1989)
 
 ---
