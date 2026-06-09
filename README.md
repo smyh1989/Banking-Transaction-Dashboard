@@ -148,17 +148,17 @@ DIVIDE(
 ```
 Banking-Transaction-Dashboard/
 │
-├── Banking_Dashboard.pbix          # Power BI file
-├── README.md                       # This file
+├── Banking_Transaction_Dashboard_PowerBI.pdf          # Power BI file
+├── README.md                                          # This file
 │
 ├── screenshots/
-│   ├── page1.png                   # Executive Overview
-│   ├── page2.png                   # Customer & Card Analysis
-│   ├── page3.png                   # Risk & Fraud Analysis
-│   └── page4.png                   # Merchant & Geographic Analysis
+│   ├── page1.png                                      # Executive Overview
+│   ├── page2.png                                      # Customer & Card Analysis
+│   ├── page3.png                                      # Risk & Fraud Analysis
+│   └── page4.png                                      # Merchant & Geographic Analysis
 │
 └── data/
-    └── source_links.md             # Kaggle dataset links
+    └── source_links.md                                # Kaggle dataset links
 ```
 
 ---
